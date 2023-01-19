@@ -1,0 +1,89 @@
+
+
+b {
+   font-size: 12px;
+}
+
+.progr{
+   position:fixed;
+   margin-top: 0px;
+   margin-left:10px;
+
+
+  }
+
+.progress {
+   border: 1px solid #B0B0B0;
+   width: 20em;
+   border-radius: 4px;
+   box-shadow: 0 0 3px #B0B0;
+   backdrop-filter: blur(2px) brightness(101%);
+}
+
+.bar {
+   width: 20em;
+   background: forestgreen;
+   box-shadow: inset 0px 12px 1.7px #FFFFFF33;
+   border-radius: 3px;
+   color: white;
+   text-align: center;
+}
+
+.bar.python {
+   background: dodgerblue;
+   width: 90%;
+}
+
+.bar.django {
+   background: dodgerblue;
+   width: 90%;
+}
+
+.bar.javascript {
+   background: dodgerblue;
+   width: 87%;
+}
+
+.bar.node {
+   background: dodgerblue;
+   width: 67%;
+}
+
+.bar.react{
+   background: dodgerblue;
+   width: 75%;
+}
+
+.bar.php {
+   background: dodgerblue;
+   width: 85%;
+}
+
+.bar.laravel {
+   background: dodgerblue;
+   width: 80%;
+}
+.bar.java{
+   background: dodgerblue;
+   width: 68%;
+}
+
+.bar.kotlin{
+   background: dodgerblue;
+   width: 55%;
+}
+
+#gallery{
+   background-color: white;
+   
+}
+
+#about{
+    background-color: white;
+    
+}
+
+#contact{
+   background-color: white;
+   
+}
